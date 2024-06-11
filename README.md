@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate developer from Germany</h3><br/><br/>
 
-- 🔭 I’m currently working on [dialogbuddy.io](dialogbuddy.io)
+- 🔭 I’m currently working on [https://dialogbuddy.io](dialogbuddy.io)
 
-- 👨‍💻 Some of my projects are available at [code-smart.com](code-smart.com)
+- 👨‍💻 Some of my projects are available at [https://code-smart.com](code-smart.com)
 
 - 💬 Ask me about **react, angular and typescript**
 
