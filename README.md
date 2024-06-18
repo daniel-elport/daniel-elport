@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hello Friend 👋</h1>
 <!--<h3 align="center">A passionate developer from Germany</h3><br/><br/>
 
 - 🔭 I’m currently working on [dialogbuddy.io](https://dialogbuddy.io)
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think i am funny**
 <br/>
-<br/>-->
+<br/>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
@@ -53,6 +53,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
 </p>
+<br/><br/>-->
 
-<br/><br/>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jonnywesten&show_icons=true&locale=en&layout=compact" alt="jonnywesten" /></p>
