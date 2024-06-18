@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate developer from Germany</h3><br/><br/>
+<!--<h3 align="center">A passionate developer from Germany</h3><br/><br/>
 
 - 🔭 I’m currently working on [dialogbuddy.io](https://dialogbuddy.io)
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I think i am funny**
 <br/>
-<br/>
+<br/>-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
