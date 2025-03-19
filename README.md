@@ -1,6 +1,6 @@
 <h1 align="center">Hello Friend 👋</h1>
 <h3 align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dmelport&show_icons=true&locale=en&layout=compact" alt="dmelport" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=daniel-elport&show_icons=true&locale=en&layout=compact" alt="dmelport" />
 </h3>
 <!--<h3 align="center">A passionate developer from Germany</h3><br/><br/>
 
